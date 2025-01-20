@@ -1,0 +1,27 @@
+:root{
+    --primary-color: #5151F5;
+    --secondary-color: rgb(183, 183, 183);
+    --white: white;
+    --black: black;
+
+}
+
+
+*{
+    font-family: "calibri";
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
