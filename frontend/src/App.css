@@ -11,7 +11,7 @@
     font-family: "calibri";
 }
 
-html,body{
+html,body,#root{
     height: 100%;
     width: 100%;
     display: flex;
@@ -21,7 +21,7 @@ html,body{
     padding: 0px;
 }
 
-#root{
-    height: 100%;
-    width: 100%;
+
+.border{
+    border: 1px solid black;
 }
